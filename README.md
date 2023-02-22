@@ -4,6 +4,9 @@
 
 With the ever-increasing production of new movies and with modern technology providing access to a vast library of options, it becomes increasingly relevant to have accurate recommendation systems to prevent users from experiencing choice paralysis. Humanity is incredibly diverse and while this is normally seen as an advantage, it makes the creation of an accurate recommendation system difficult. In this study we combine the strengths of Ant Colony Optimization with the strengths of the Genetic Algorithm to produce a basic recommendation system that produces a list of accurate recommendations. It is shown in the paper that the Genetic Algorithm does in fact improve the performance of a system that is solely trained with ACO. The results also indicate that users can successfully ask for recommendations using this system with genres are query parameters. 
 
+### Full report:
+https://github.com/SepehrAmirabadi/Movie-recommendation-system-using-ACO-and-GA/blob/main/ACO%20and%20GA%20as%20the%20basis%20for%20a%20movie%20recommendation%20system%20-%20Final%20report.pdf
+
 ## References 
 
 1.	Barman, D. Sarkar, R. Tudu A. Chowdhury, N.(2020) Personalized query recommendation system : A genetic algorithm approach.  Journal of Interdisciplinary Mathematics. Volume 23, Number 2, pp. 523–535
